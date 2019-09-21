@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>MY FIRST WEBSITE</title>
+    </head>
+    <body>
+        Helloooooo there
+        <p><strong>Lorem ipsum</strong> dolor sit amet consectetur adipisicing elit. Rem, voluptates at doloribus dolore sunt cupiditate reprehenderit, fugit quam minima veritatis enim vitae corrupti, nobis facilis? Error hic ut odio quae.</p>
+        <p><em>Lorem ipsum</em> dolor sit amet consectetur adipisicing elit. Architecto quidem earum explicabo, placeat eius dolores. Nisi commodi ab, officiis tempora error, neque incidunt minima debitis ut molestias nesciunt quaerat dolores.  </p>
+        <ol>
+            <li>I want to be a good front end developer</li>
+            <ul>
+                This journey started at ProEdge's GPFU
+            </ul>
+            <ul>                Then to Bootstrap, Unilag
+            </ul>
+            <ul>                Then, Udemy videos
+            </ul>
+            <li>Well, if possible, be a full stack developer</li>
+            <li>Hopefully, I won't quit</li>
+        </ol>
+        <img src="sample.jpg" width="200"; height="250"> 
+        <p>That's me</p>
+        <a href="myblog.html">CLICK TO KNOW MORE ABOUT ME</a><br>
+        <a href="register.html">CLICK TO JOIN MY BLOG</a>
+        <h1>SIMI SOLOLA</h1>
+        My First Commit
+    </body>
+</html>
